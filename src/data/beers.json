@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1",
+    "name": "Hoppy Horizon IPA",
+    "style": "India Pale Ale",
+    "image": "/images/beers/hoppy-horizon.jpg",
+    "abv": 6.5,
+    "ibu": 65,
+    "brewery": "Brewstop Brewing Co.",
+    "description": "A West Coast-style IPA with bright citrus notes and a crisp, hoppy finish. Perfect for hop heads seeking a classic American IPA experience.",
+    "tastingNotes": {
+      "appearance": "Golden amber with a persistent white head",
+      "aroma": "Intense grapefruit, pine, and tropical fruit notes",
+      "flavor": "Bold hop bitterness balanced with caramel malt sweetness",
+      "mouthfeel": "Medium body with moderate carbonation",
+      "overall": "A well-balanced IPA that showcases American hop varietals"
+    },
+    "foodPairings": ["Spicy tacos", "Sharp cheddar cheese", "Grilled chicken"]
+  },
+  {
+    "id": "2",
+    "name": "Midnight Velvet Stout",
+    "style": "Imperial Stout",
+    "image": "/images/beers/midnight-velvet.jpg",
+    "abv": 8.5,
+    "ibu": 35,
+    "brewery": "Brewstop Brewing Co.",
+    "description": "Rich and velvety imperial stout with notes of dark chocolate, coffee, and vanilla. A decadent brew for stout enthusiasts.",
+    "tastingNotes": {
+      "appearance": "Pitch black with a tan head",
+      "aroma": "Roasted coffee, dark chocolate, and vanilla",
+      "flavor": "Complex layers of chocolate, espresso, and subtle dark fruits",
+      "mouthfeel": "Full-bodied and creamy with low carbonation",
+      "overall": "A luxurious stout perfect for sipping"
+    },
+    "foodPairings": ["Chocolate desserts", "BBQ ribs", "Blue cheese"]
+  },
+  {
+    "id": "3",
+    "name": "Summer Breeze Wheat",
+    "style": "Hefeweizen",
+    "image": "/images/beers/summer-breeze.jpg",
+    "abv": 5.2,
+    "ibu": 15,
+    "brewery": "Brewstop Brewing Co.",
+    "description": "A refreshing German-style wheat beer with hints of banana and clove. Light, crisp, and perfect for warm weather.",
+    "tastingNotes": {
+      "appearance": "Cloudy golden yellow with a fluffy white head",
+      "aroma": "Banana, clove, and fresh bread",
+      "flavor": "Smooth wheat character with banana esters and subtle spice",
+      "mouthfeel": "Light to medium body with high carbonation",
+      "overall": "A classic hefeweizen that's refreshing and approachable"
+    },
+    "foodPairings": ["Salads", "Seafood", "Light pasta dishes"]
+  },
+  {
+    "id": "4",
+    "name": "Amber Waves Lager",
+    "style": "Vienna Lager",
+    "image": "/images/beers/amber-waves.jpg",
+    "abv": 5.5,
+    "ibu": 25,
+    "brewery": "Brewstop Brewing Co.",
+    "description": "A smooth, malty lager with toasted bread notes and a clean finish. Traditional Austrian-style brewing at its finest.",
+    "tastingNotes": {
+      "appearance": "Clear amber color with off-white head",
+      "aroma": "Toasted malt, light caramel, and floral hops",
+      "flavor": "Balanced malt sweetness with subtle hop bitterness",
+      "mouthfeel": "Medium body with moderate carbonation",
+      "overall": "A sessionable lager with excellent drinkability"
+    },
+    "foodPairings": ["Grilled sausages", "Pretzels", "Roasted chicken"]
+  },
+  {
+    "id": "5",
+    "name": "Citrus Sunrise Pale Ale",
+    "style": "American Pale Ale",
+    "image": "/images/beers/citrus-sunrise.jpg",
+    "abv": 5.8,
+    "ibu": 40,
+    "brewery": "Brewstop Brewing Co.",
+    "description": "A bright and zesty pale ale featuring Citra and Mosaic hops. Bursting with citrus and tropical fruit flavors.",
+    "tastingNotes": {
+      "appearance": "Light amber with a white head",
+      "aroma": "Orange zest, mango, and pine",
+      "flavor": "Citrus-forward with balanced malt backbone",
+      "mouthfeel": "Medium-light body with lively carbonation",
+      "overall": "A refreshing pale ale perfect for any occasion"
+    },
+    "foodPairings": ["Fish tacos", "Thai cuisine", "Fresh salads"]
+  },
+  {
+    "id": "6",
+    "name": "Belgian Bliss Tripel",
+    "style": "Belgian Tripel",
+    "image": "/images/beers/belgian-bliss.jpg",
+    "abv": 9.0,
+    "ibu": 30,
+    "brewery": "Brewstop Brewing Co.",
+    "description": "A traditional Belgian tripel with complex fruity esters and a dry finish. Deceptively smooth for its strength.",
+    "tastingNotes": {
+      "appearance": "Pale gold with rocky white head",
+      "aroma": "Banana, pear, and spicy phenolics",
+      "flavor": "Fruity esters, honey sweetness, and peppery finish",
+      "mouthfeel": "Medium body with high carbonation",
+      "overall": "A sophisticated Belgian classic"
+    },
+    "foodPairings": ["Mussels", "Aged cheeses", "Roasted pork"]
+  },
+  {
+    "id": "7",
+    "name": "Raspberry Tart Sour",
+    "style": "Fruited Sour",
+    "image": "/images/beers/raspberry-tart.jpg",
+    "abv": 4.5,
+    "ibu": 8,
+    "brewery": "Brewstop Brewing Co.",
+    "description": "A kettle-soured ale with fresh raspberry puree. Tart, fruity, and refreshing with a beautiful pink hue.",
+    "tastingNotes": {
+      "appearance": "Bright pink with pink foam",
+      "aroma": "Fresh raspberries and lactic acid",
+      "flavor": "Tart raspberry with balanced sweetness",
+      "mouthfeel": "Light body with moderate carbonation",
+      "overall": "A fruit-forward sour that's approachable and refreshing"
+    },
+    "foodPairings": ["Goat cheese", "Dark chocolate", "Summer salads"]
+  },
+  {
+    "id": "8",
+    "name": "Smoke & Mirrors Porter",
+    "style": "Smoked Porter",
+    "image": "/images/beers/smoke-mirrors.jpg",
+    "abv": 6.2,
+    "ibu": 28,
+    "brewery": "Brewstop Brewing Co.",
+    "description": "A robust porter with subtle smoke character from beechwood-smoked malt. Complex and warming.",
+    "tastingNotes": {
+      "appearance": "Dark brown with tan head",
+      "aroma": "Campfire smoke, chocolate, and coffee",
+      "flavor": "Balanced smoke with dark malt sweetness",
+      "mouthfeel": "Medium-full body with moderate carbonation",
+      "overall": "A unique porter with intriguing smoke notes"
+    },
+    "foodPairings": ["BBQ brisket", "Smoked meats", "Dark chocolate"]
+  }
+]

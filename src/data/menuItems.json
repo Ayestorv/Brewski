@@ -1,0 +1,148 @@
+[
+  {
+    "id": "1",
+    "category": "appetizers",
+    "name": "Beer-Battered Onion Rings",
+    "image": "/images/menu/onion-rings.jpg",
+    "price": 8.99,
+    "description": "Crispy golden onion rings made with our signature IPA batter, served with chipotle aioli",
+    "ingredients": ["Onions", "IPA beer batter", "Chipotle aioli"],
+    "isVegetarian": true,
+    "isGlutenFree": false,
+    "calories": 450
+  },
+  {
+    "id": "2",
+    "category": "appetizers",
+    "name": "Pretzel Bites & Beer Cheese",
+    "image": "/images/menu/pretzel-bites.jpg",
+    "price": 9.99,
+    "description": "Warm, soft pretzel bites served with our house-made beer cheese dip",
+    "ingredients": ["Pretzel dough", "Beer cheese", "Sea salt"],
+    "isVegetarian": true,
+    "isGlutenFree": false,
+    "calories": 520
+  },
+  {
+    "id": "3",
+    "category": "appetizers",
+    "name": "Loaded Nachos",
+    "image": "/images/menu/nachos.jpg",
+    "price": 12.99,
+    "description": "Tortilla chips topped with beer-braised pulled pork, cheese, jalapeños, and all the fixings",
+    "ingredients": [
+      "Tortilla chips",
+      "Pulled pork",
+      "Cheese",
+      "Jalapeños",
+      "Sour cream",
+      "Guacamole"
+    ],
+    "isVegetarian": false,
+    "isGlutenFree": true,
+    "calories": 850
+  },
+  {
+    "id": "4",
+    "category": "mains",
+    "name": "Brewmaster Burger",
+    "image": "/images/menu/burger.jpg",
+    "price": 15.99,
+    "description": "8oz beef patty with beer-caramelized onions, aged cheddar, bacon, and stout aioli",
+    "ingredients": [
+      "Beef patty",
+      "Brioche bun",
+      "Cheddar",
+      "Bacon",
+      "Caramelized onions",
+      "Stout aioli"
+    ],
+    "isVegetarian": false,
+    "isGlutenFree": false,
+    "calories": 980
+  },
+  {
+    "id": "5",
+    "category": "mains",
+    "name": "Fish & Chips",
+    "image": "/images/menu/fish-chips.jpg",
+    "price": 16.99,
+    "description": "Beer-battered cod served with crispy fries, coleslaw, and house-made tartar sauce",
+    "ingredients": ["Cod", "Beer batter", "Fries", "Coleslaw", "Tartar sauce"],
+    "isVegetarian": false,
+    "isGlutenFree": false,
+    "calories": 890
+  },
+  {
+    "id": "6",
+    "category": "mains",
+    "name": "BBQ Ribs",
+    "image": "/images/menu/ribs.jpg",
+    "price": 22.99,
+    "description": "Full rack of tender ribs glazed with our signature stout BBQ sauce",
+    "ingredients": ["Pork ribs", "Stout BBQ sauce", "Coleslaw", "Cornbread"],
+    "isVegetarian": false,
+    "isGlutenFree": true,
+    "calories": 1200
+  },
+  {
+    "id": "7",
+    "category": "mains",
+    "name": "Veggie Power Bowl",
+    "image": "/images/menu/veggie-bowl.jpg",
+    "price": 13.99,
+    "description": "Quinoa, roasted vegetables, avocado, and tahini dressing",
+    "ingredients": ["Quinoa", "Roasted vegetables", "Avocado", "Chickpeas", "Tahini"],
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "calories": 650
+  },
+  {
+    "id": "8",
+    "category": "desserts",
+    "name": "Beer Float",
+    "image": "/images/menu/beer-float.jpg",
+    "price": 7.99,
+    "description": "Vanilla ice cream topped with your choice of stout or root beer",
+    "ingredients": ["Vanilla ice cream", "Stout or root beer"],
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "calories": 380
+  },
+  {
+    "id": "9",
+    "category": "desserts",
+    "name": "Chocolate Stout Brownie",
+    "image": "/images/menu/brownie.jpg",
+    "price": 8.99,
+    "description": "Rich chocolate brownie made with our imperial stout, served warm with vanilla ice cream",
+    "ingredients": ["Chocolate", "Stout", "Vanilla ice cream", "Whipped cream"],
+    "isVegetarian": true,
+    "isGlutenFree": false,
+    "calories": 520
+  },
+  {
+    "id": "10",
+    "category": "sides",
+    "name": "Sweet Potato Fries",
+    "image": "/images/menu/sweet-potato-fries.jpg",
+    "price": 5.99,
+    "description": "Crispy sweet potato fries with maple-bourbon dipping sauce",
+    "ingredients": ["Sweet potatoes", "Maple-bourbon sauce"],
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "calories": 320
+  },
+  {
+    "id": "11",
+    "category": "sides",
+    "name": "Mac & Beer Cheese",
+    "image": "/images/menu/mac-cheese.jpg",
+    "price": 6.99,
+    "description": "Creamy mac and cheese made with our signature beer cheese sauce",
+    "ingredients": ["Pasta", "Beer cheese sauce", "Breadcrumb topping"],
+    "isVegetarian": true,
+    "isGlutenFree": false,
+    "calories": 480
+  }
+]
