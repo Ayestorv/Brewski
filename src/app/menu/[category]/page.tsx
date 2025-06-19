@@ -10,12 +10,18 @@ export async function generateStaticParams() {
   }));
 }
 
-export default function MenuCategoryPage({ params }: { params: { category: string } }) {
-  if (!validCategories.includes(params.category)) {
+export default async function MenuCategoryPage({
+  params,
+}: {
+  params: Promise<{ category: string }>;
+}) {
+  const { category } = await params;
+
+  if (!validCategories.includes(category)) {
     notFound();
   }
 
-  const items = menuItemsData.filter((item) => item.category === params.category);
+  const items = menuItemsData.filter((item) => item.category === category);
 
-  return <MenuCategory category={params.category} items={items} />;
+  return <MenuCategory category={category} items={items} />;
 }

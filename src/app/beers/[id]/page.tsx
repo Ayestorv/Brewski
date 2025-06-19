@@ -9,8 +9,9 @@ export async function generateStaticParams() {
   }));
 }
 
-export default function BeerPage({ params }: { params: { id: string } }) {
-  const beer = beersData.find((b) => b.id === params.id) as Beer | undefined;
+export default async function BeerPage({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
+  const beer = beersData.find((b) => b.id === id) as Beer | undefined;
 
   if (!beer) {
     notFound();
